@@ -1,0 +1,17 @@
+E:\gamedev\monoprj\3d_rpg-master\.godot\mono\temp\obj\Debug\3d RPG.csproj.AssemblyReference.cache
+E:\gamedev\monoprj\3d_rpg-master\.godot\mono\temp\obj\Debug\3d RPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\gamedev\monoprj\3d_rpg-master\.godot\mono\temp\obj\Debug\3d RPG.AssemblyInfoInputs.cache
+E:\gamedev\monoprj\3d_rpg-master\.godot\mono\temp\obj\Debug\3d RPG.AssemblyInfo.cs
+E:\gamedev\monoprj\3d_rpg-master\.godot\mono\temp\obj\Debug\3d RPG.csproj.CoreCompileInputs.cache
+E:\GAMEDEV\MONOPRJ\3D_RPG-MASTER\.godot\mono\temp\bin\Debug\3d RPG.deps.json
+E:\GAMEDEV\MONOPRJ\3D_RPG-MASTER\.godot\mono\temp\bin\Debug\3d RPG.runtimeconfig.json
+E:\GAMEDEV\MONOPRJ\3D_RPG-MASTER\.godot\mono\temp\bin\Debug\3d RPG.dll
+E:\GAMEDEV\MONOPRJ\3D_RPG-MASTER\.godot\mono\temp\bin\Debug\3d RPG.pdb
+E:\GAMEDEV\MONOPRJ\3D_RPG-MASTER\.godot\mono\temp\bin\Debug\GodotSharp.dll
+E:\GAMEDEV\MONOPRJ\3D_RPG-MASTER\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+E:\GAMEDEV\MONOPRJ\3D_RPG-MASTER\.godot\mono\temp\obj\Debug\3d RPG.csproj.Up2Date
+E:\GAMEDEV\MONOPRJ\3D_RPG-MASTER\.godot\mono\temp\obj\Debug\3d RPG.dll
+E:\GAMEDEV\MONOPRJ\3D_RPG-MASTER\.godot\mono\temp\obj\Debug\refint\3d RPG.dll
+E:\GAMEDEV\MONOPRJ\3D_RPG-MASTER\.godot\mono\temp\obj\Debug\3d RPG.pdb
+E:\GAMEDEV\MONOPRJ\3D_RPG-MASTER\.godot\mono\temp\obj\Debug\3d RPG.genruntimeconfig.cache
+E:\GAMEDEV\MONOPRJ\3D_RPG-MASTER\.godot\mono\temp\obj\Debug\ref\3d RPG.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YS0z+cTG0ZM=",
+  "success": true,
+  "projectFilePath": "E:\\gamedev\\monoprj\\3d_rpg-master\\3d RPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\godot.sourcegenerators\\4.3.1-rc\\godot.sourcegenerators.4.3.1-rc.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\godotsharp\\4.3.1-rc\\godotsharp.4.3.1-rc.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\godotsharpeditor\\4.3.1-rc\\godotsharpeditor.4.3.1-rc.nupkg.sha512"
+  ],
+  "logs": []
+}
