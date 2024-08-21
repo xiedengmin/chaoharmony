@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\gamedev\\monoprj\\3d_rpg-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B7B22-F934-47F7-BDFF-7F2CE6E8C495}|3d RPG.csproj|e:\\gamedev\\monoprj\\3d_rpg-master\\characters\\playerscripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B7B22-F934-47F7-BDFF-7F2CE6E8C495}|3d RPG.csproj|solutionrelative:characters\\playerscripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B7B22-F934-47F7-BDFF-7F2CE6E8C495}|3d RPG.csproj|e:\\gamedev\\monoprj\\3d_rpg-master\\characters\\entitybase\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B7B22-F934-47F7-BDFF-7F2CE6E8C495}|3d RPG.csproj|solutionrelative:characters\\entitybase\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B7B22-F934-47F7-BDFF-7F2CE6E8C495}|3d RPG.csproj|e:\\gamedev\\monoprj\\3d_rpg-master\\characters\\enemyscripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B7B22-F934-47F7-BDFF-7F2CE6E8C495}|3d RPG.csproj|solutionrelative:characters\\enemyscripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B7B22-F934-47F7-BDFF-7F2CE6E8C495}|3d RPG.csproj|e:\\gamedev\\monoprj\\3d_rpg-master\\3d rpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E8B7B22-F934-47F7-BDFF-7F2CE6E8C495}|3d RPG.csproj|solutionrelative:3d rpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\gamedev\\monoprj\\3d_rpg-master\\Characters\\EntityBase\\Entity.cs",
+              "RelativeDocumentMoniker": "Characters\\EntityBase\\Entity.cs",
+              "ToolTip": "E:\\gamedev\\monoprj\\3d_rpg-master\\Characters\\EntityBase\\Entity.cs",
+              "RelativeToolTip": "Characters\\EntityBase\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:27:11.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\gamedev\\monoprj\\3d_rpg-master\\Characters\\PlayerScripts\\Player.cs",
+              "RelativeDocumentMoniker": "Characters\\PlayerScripts\\Player.cs",
+              "ToolTip": "E:\\gamedev\\monoprj\\3d_rpg-master\\Characters\\PlayerScripts\\Player.cs",
+              "RelativeToolTip": "Characters\\PlayerScripts\\Player.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAkwAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:26:37.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3d RPG",
+              "DocumentMoniker": "E:\\GAMEDEV\\MONOPRJ\\3D_RPG-MASTER\\3d RPG.csproj",
+              "RelativeDocumentMoniker": "3d RPG.csproj",
+              "ToolTip": "E:\\GAMEDEV\\MONOPRJ\\3D_RPG-MASTER\\3d RPG.csproj",
+              "RelativeToolTip": "3d RPG.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T14:19:23.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\gamedev\\monoprj\\3d_rpg-master\\Characters\\EnemyScripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Characters\\EnemyScripts\\Enemy.cs",
+              "ToolTip": "E:\\gamedev\\monoprj\\3d_rpg-master\\Characters\\EnemyScripts\\Enemy.cs",
+              "RelativeToolTip": "Characters\\EnemyScripts\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:18:28.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
